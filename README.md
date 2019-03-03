@@ -29,7 +29,7 @@
 * `-user <username>` - Displays user data using Anilist
 * `-character <character-name>` - Displays character data using Anilist
 
-## Booru (These all default to random safe images except in NSFW channels)
+### Booru (These all default to random safe images except in NSFW channels)
 
 * `-booru <tags : optional>` - Displays images and their tags from various image boards
 * `-dan <tags : optional>` - Displays images and their tags from danbooru
@@ -41,30 +41,30 @@
 * `-e621 <tags : optional>` - Displays images and their tags from e621
 * `-booruset global|guild|channel all|boards|nsfw show|add|remove` - Booru settings
 
-## Wikia
+### Wikia
 
 * `-wikia <query>` - Search wikia subdomain then bot will ask you which article you want to consult unless a default wiki is set
 * `-wikias <query>` - Search wikia subdomain then bot will ask you which article you want to consult ignoring default wiki
 * `-wikiaset <url>` - Sets a default url (per-channel)
 * `-wikiaunset` - Removes default url (per-channel)
 
-## XKCD
+### XKCD
 
 * `-xkcd <entry_number : optional>` - Displays XKCD entries (defaults to random)
 
-## Osu
+### Osu
 
 * `-osu <username>` - Displays user profile on osu
 
-## Gamesearch
+### Gamesearch
 
 * `-game <game-name>` - Displays a summary with platforms
 
-## Imdb
+### Imdb
 
 * `-movie <movie-name>` - Displays a summary with some more information such as metascore, genre, runtime.
 
-## Levels
+### Levels
 
 * `-level` Displays your current level or user mentioned
 * `-levelboard` Display the leaderboard of your server with a length per page set by `[p]lvladmin config set leaderboard_max`
