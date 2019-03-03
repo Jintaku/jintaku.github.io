@@ -1,1 +1,7 @@
 theme: jekyll-theme-cayman
+
+title: [Jintaku]
+description: [The modular bot for your server!]
+
+github:
+  another_url: https://discordapp.com/oauth2/authorize?client_id=303719649818705921&scope=bot
