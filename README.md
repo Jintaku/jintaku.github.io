@@ -87,9 +87,9 @@ If you need help with anything, want to look at the roadmap or ask for new featu
 * `-levelboard` Display the leaderboard of your server with a length per page set by `[p]lvladmin config set leaderboard_max`
 * `-lvladmin` Admin commands.
 
-### Welcomeset
+### Welcomecount
 
-* `-welcomeset` Set welcome settings
+* `-wcount deletelast|message|toggle` Welcomecount settings
 
 ### Starboard
 
@@ -105,3 +105,5 @@ If you need help with anything, want to look at the roadmap or ask for new featu
 #### [Liante-Cogs (fork)](https://github.com/Jintaku/Liante-Cogs)
 
 #### [Trusty-Cogs](https://github.com/TrustyJAID/Trusty-cogs)
+
+#### [Tobo-Cogs](https://github.com/Tobotimus/Tobo-Cogs/)
