@@ -1,5 +1,23 @@
 # [Get it now](https://discordapp.com/oauth2/authorize?client_id=303719649818705921&scope=bot)
 
+## Why use Jintaku?
+
+### Fun
+
+We have some pretty neat and fun commands you can use with Jintaku, look below for the commands!
+
+### Privacy-friendly-ish
+
+We try to collect the least amount of information needed to run the bot.
+
+### Fully open source
+
+All of our code is in the repos listed below, run it yourself if you want to!
+
+### Supported and maintained
+
+If you need help with anything, want to look at the roadmap or ask for new features, just jump in our [Discord](https://discord.gg/TNrRn3f)!
+
 ## Commands
 
 ### Core
