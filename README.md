@@ -87,6 +87,15 @@ If you need help with anything, want to look at the roadmap or ask for new featu
 * `-levelboard` Display the leaderboard of your server with a length per page set by `[p]lvladmin config set leaderboard_max`
 * `-lvladmin` Admin commands.
 
+### Welcomeset
+
+* `-welcomeset` Set welcome settings
+
+### Starboard
+
+* `-star` Manually star a message
+* `-starboard` Commands for managing the starboard
+
 ## Sources
 
 #### [Red-bot base](https://github.com/Cog-Creators/Red-DiscordBot/)
@@ -94,3 +103,5 @@ If you need help with anything, want to look at the roadmap or ask for new featu
 #### [Jintaku-Cogs-V3](https://github.com/Jintaku/Jintaku-Cogs-V3/)
 
 #### [Liante-Cogs (fork)](https://github.com/Jintaku/Liante-Cogs)
+
+#### [Trusty-Cogs](https://github.com/TrustyJAID/Trusty-cogs)
