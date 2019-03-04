@@ -5,7 +5,6 @@
 ### Core
 
 * `-contact` Sends a message to the owner
-* `-embedset` Commands for toggling embeds on or off.
 * `-info` Shows info about Red
 * `-set` Changes Red's settings
 * `-uptime` Shows Red's uptime
