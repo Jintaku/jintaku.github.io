@@ -65,6 +65,16 @@ If you need help with anything, want to look at the roadmap or ask for new featu
 * `-wikiaset <url>` - Sets a default url (per-channel)
 * `-wikiaunset` - Removes default url (per-channel)
 
+### Roleplay
+
+* `-feed` Feeds a user!
+* `-highfive` Highfives a user!
+* `-hugs` Hugs a user!
+* `-kiss` Kiss a user!
+* `-lick` Licks a user!
+* `-pat` Pats a user!
+* `-slap` Slaps a user!
+
 ### XKCD
 
 * `-xkcd <entry_number : optional>` - Displays XKCD entries (defaults to random)
@@ -104,7 +114,7 @@ If you need help with anything, want to look at the roadmap or ask for new featu
 
 #### [Jintaku-Cogs-V3](https://github.com/Jintaku/Jintaku-Cogs-V3/)
 
-* anisearch, booru, dmannouncer, gamesearch, imdb, osu, pokemon, wikia, xkcd
+* anisearch, booru, dmannouncer, gamesearch, imdb, osu, pokemon, wikia, xkcd, roleplay
 
 #### [Liante-Cogs (fork)](https://github.com/Jintaku/Liante-Cogs)
 
