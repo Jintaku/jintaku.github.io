@@ -98,12 +98,27 @@ If you need help with anything, want to look at the roadmap or ask for new featu
 
 ## Sources
 
-#### [Red-bot base](https://github.com/Cog-Creators/Red-DiscordBot/)
+#### [Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot/)
+
+* core, general
 
 #### [Jintaku-Cogs-V3](https://github.com/Jintaku/Jintaku-Cogs-V3/)
 
+* anisearch, booru, dmannouncer, gamesearch, imdb, osu, pokemon, wikia, xkcd
+
 #### [Liante-Cogs (fork)](https://github.com/Jintaku/Liante-Cogs)
+
+* levels
 
 #### [Trusty-Cogs](https://github.com/TrustyJAID/Trusty-cogs)
 
+* starboard
+
 #### [Tobo-Cogs](https://github.com/Tobotimus/Tobo-Cogs/)
+
+* welcomecount
+
+#### [Aikaterna-Cogs](https://github.com/aikaterna/aikaterna-cogs/)
+
+* rndstatus
+
