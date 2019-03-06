@@ -22,22 +22,27 @@ If you need help with anything, want to look at the roadmap or ask for new featu
 
 ### Core
 
-* `-contact` Sends a message to the owner
-* `-info` Shows info about Red
-* `-set` Changes Red's settings
-* `-uptime` Shows Red's uptime
+* `-contact` - Sends a message to the owner
+* `-info` - Shows info about Jintaku
+* `-set` - Changes Jintaku's settings
+* `-uptime` - Shows Jintaku's uptime
 
 ### General
 
-* `-8` Ask 8 ball a question.
-* `-choose` Choose between multiple options.
-* `-flip` Flip a coin... or a user.
-* `-lmgtfy` Create a lmgtfy link.
-* `-roll` Roll a random number.
-* `-rps` Play Rock Paper Scissors.
-* `-serverinfo` Show server information.
-* `-stopwatch` Start or stop the stopwatch.
-* `-urban` Search the Urban Dictionary.
+* `-8` - Ask 8 ball a question.
+* `-choose` - Choose between multiple options.
+* `-flip` - Flip a coin... or a user.
+* `-lmgtfy` - Create a lmgtfy link.
+* `-roll` - Roll a random number.
+* `-rps` - Play Rock Paper Scissors.
+* `-serverinfo` - Show server information.
+* `-stopwatch` - Start or stop the stopwatch.
+* `-urban` - Search the Urban Dictionary.
+
+### Trivia
+
+* `-trivia` - Start trivia session on the specified category.
+* `-triviaset` - Manage Trivia settings.
 
 ### Anilist
 
@@ -67,13 +72,22 @@ If you need help with anything, want to look at the roadmap or ask for new featu
 
 ### Roleplay
 
-* `-feed` Feeds a user!
-* `-highfive` Highfives a user!
-* `-hugs` Hugs a user!
-* `-kiss` Kiss a user!
-* `-lick` Licks a user!
-* `-pat` Pats a user!
-* `-slap` Slaps a user!
+* `-feed` - Feeds a user!
+* `-highfive` - Highfives a user!
+* `-hugs` - Hugs a user!
+* `-kiss` - Kiss a user!
+* `-lick` - Licks a user!
+* `-pat` - Pats a user!
+* `-slap` - Slaps a user!
+
+### Truthordare
+
+* `-dare` - Dare someone!
+* `-truth` - Ask a truth question to users!
+
+### Tictactoe
+
+* `tictactoe` - Tictactoe with someone
 
 ### XKCD
 
@@ -99,26 +113,30 @@ If you need help with anything, want to look at the roadmap or ask for new featu
 
 ### Welcomecount
 
-* `-wcount deletelast|message|toggle` Welcomecount settings
+* `-wcount deletelast|message|toggle` - Welcomecount settings
 
 ### Starboard
 
-* `-star` Manually star a message
-* `-starboard` Commands for managing the starboard
+* `-star` - Manually star a message
+* `-starboard` - Commands for managing the starboard
 
 ## Sources
 
 #### [Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot/)
 
-* core, general
+* core, general, trivia
 
 #### [Jintaku-Cogs-V3](https://github.com/Jintaku/Jintaku-Cogs-V3/)
 
-* anisearch, booru, dmannouncer, gamesearch, imdb, osu, pokemon, wikia, xkcd, roleplay
+* anisearch, booru, dmannouncer, gamesearch, imdb, osu, pokemon, wikia, xkcd, roleplay, truthordare
 
 #### [Liante-Cogs (fork)](https://github.com/Jintaku/Liante-Cogs)
 
 * levels
+
+#### [Magik-Cogs (fork)](https://github.com/Jintaku/MagikCogs)
+
+* tictactoe
 
 #### [Trusty-Cogs](https://github.com/TrustyJAID/Trusty-cogs)
 
