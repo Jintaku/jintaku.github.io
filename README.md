@@ -120,6 +120,37 @@ If you need help with anything, want to look at the roadmap or ask for new featu
 * `-star` - Manually star a message
 * `-starboard` - Commands for managing the starboard
 
+### Reactpoll
+
+* `-rpoll` Start a reaction poll
+
+### Weather
+
+* `-weather` Display weather in a given location
+* `-weatherset` Set user or guild default units
+
+### Raffle
+
+* `-raffle` Raffle group command
+* `-setraffle` Set Raffle group command
+
+### Dungeon
+
+* `-banish` Strip a user of their roles, apply the dungeon role, and blacklist them.
+* `-dungeon` Main dungeon commands.
+
+### Away
+
+* `-away` Tell the bot you're away or back.
+* `-awaysettings` View your current away settings
+* `-dnd` Set an automatic reply when you're dnd.
+* `-gaming` Set an automatic reply when you're playing a specified game.
+* `-idle` Set an automatic reply when you're idle.
+* `-listening` Set an automatic reply when you're listening to Spotify.
+* `-offline` Set an automatic reply when you're offline.
+* `-streaming` Set an automatic reply when you're streaming.
+* `-toggleaway` Toggle away messages on the whole server.
+
 ## Sources
 
 #### [Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot/)
@@ -140,13 +171,23 @@ If you need help with anything, want to look at the roadmap or ask for new featu
 
 #### [Trusty-Cogs](https://github.com/TrustyJAID/Trusty-cogs)
 
-* starboard
+* starboard, weather
+
+#### [Trusty-fork](https://github.com/Jintaku/Trusty-cogs)
+
+* serverstats
 
 #### [Tobo-Cogs](https://github.com/Tobotimus/Tobo-Cogs/)
 
 * welcomecount
 
+#### [Redjumpman-Cogs](https://github.com/Redjumpman/Jumper-Plugins)
+
+* raffle
 #### [Aikaterna-Cogs](https://github.com/aikaterna/aikaterna-cogs/)
 
-* rndstatus
+* rndstatus, away, dungeon
 
+#### [Flapjack-Cogs](https://github.com/flapjax/FlapJack-Cogs/)
+
+* reactpoll
