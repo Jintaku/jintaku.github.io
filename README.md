@@ -87,6 +87,17 @@ If you need help with anything, want to look at the roadmap or ask for new featu
 * `-wouldyourather|wyr` - Would you rather?
 * `-neverhaveIever|nhie` - Never have I ever..
 
+### Confession
+
+* `-confess` Confess your dirty sins
+* `-confessionset` Set a confession room
+* `-confessionunset` Unset a confession room
+
+### SuggestionBox
+
+* `-suggest` Suggest something.
+* `-suggestionset` Configuration settings for SuggestionBox
+
 ### Tictactoe
 
 * `tictactoe` - Tictactoe with someone
@@ -161,7 +172,7 @@ If you need help with anything, want to look at the roadmap or ask for new featu
 
 #### [Jintaku-Cogs-V3](https://github.com/Jintaku/Jintaku-Cogs-V3/)
 
-* anisearch, booru, dmannouncer, gamesearch, imdb, osu, pokemon, wikia, xkcd, roleplay, conversationgames
+* anisearch, booru, dmannouncer, gamesearch, imdb, osu, pokemon, wikia, xkcd, roleplay, conversationgames, confession
 
 #### [Liante-Cogs (fork)](https://github.com/Jintaku/Liante-Cogs)
 
@@ -182,6 +193,10 @@ If you need help with anything, want to look at the roadmap or ask for new featu
 #### [Tobo-Cogs](https://github.com/Tobotimus/Tobo-Cogs/)
 
 * welcomecount
+
+#### [Sinbad-Cogs](https://github.com/mikeshardmind/SinbadCogs/)
+
+* suggestionbox
 
 #### [Redjumpman-Cogs](https://github.com/Redjumpman/Jumper-Plugins)
 
