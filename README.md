@@ -161,7 +161,7 @@ If you need help with anything, want to look at the roadmap or ask for new featu
 
 #### [Jintaku-Cogs-V3](https://github.com/Jintaku/Jintaku-Cogs-V3/)
 
-* anisearch, booru, dmannouncer, gamesearch, imdb, osu, pokemon, wikia, xkcd, roleplay, truthordare
+* anisearch, booru, dmannouncer, gamesearch, imdb, osu, pokemon, wikia, xkcd, roleplay, conversationgames
 
 #### [Liante-Cogs (fork)](https://github.com/Jintaku/Liante-Cogs)
 
