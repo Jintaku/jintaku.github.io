@@ -80,10 +80,12 @@ If you need help with anything, want to look at the roadmap or ask for new featu
 * `-pat` - Pats a user!
 * `-slap` - Slaps a user!
 
-### Truthordare
+## ConversationGames
 
 * `-dare` - Dare someone!
 * `-truth` - Ask a truth question to users!
+* `-wouldyourather|wyr` - Would you rather?
+* `-neverhaveIever|nhie` - Never have I ever..
 
 ### Tictactoe
 
